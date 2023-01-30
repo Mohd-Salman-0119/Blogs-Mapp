@@ -1,4 +1,4 @@
-# mapp_blogs
+# Mapp Blogs
 
 A new Flutter project.
 
@@ -6,11 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![1 (1)](https://user-images.githubusercontent.com/112762975/215545116-ef2d5fa9-e29f-4a9e-ae30-fb4fcde998ba.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## It's my first Flutter Application.
